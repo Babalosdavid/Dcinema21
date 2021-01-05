@@ -6,6 +6,11 @@ import android.os.Bundle
 import android.os.Handler
 import com.david_422017001.d_cinema_21.onboarding.OnboardingOneActivity
 
+/*
+Tidak ada yang spesial disini. hanya mendeklarasikan sebuah variabel
+bernama handler dengan Handler sebagai tipe data.
+* */
+
 class SplashScreenActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
